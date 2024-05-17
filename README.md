@@ -9,4 +9,6 @@ Men inte denna text
 | Header    | Title  |
 | Paragraph | 2258   |
 
-en till line
+classDiagram
+class Animal
+Vehicle <|-- Car
