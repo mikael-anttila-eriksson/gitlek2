@@ -3,7 +3,8 @@
 This text is ***importand to know***
 Mera text
 
-Men inte denna text
+Men inte denna text, sen byt  
+rad med 2 blanksteg i slutet.
 | MyTable   | Värden |
 | --------- | ------ |
 | Header    | Title  |
